@@ -1,22 +1,13 @@
 <span id="a">brett@karpinos</span>:<span id="b">~</span><span id="c">$</span> cat bkarpinos.txt<br/><br/>
 Hello world!.
 My name is Brett Karpinos...
-
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-
 <p>I am currently studying Computer Science Engineering at the University of Michigan College of Engineering. I plan on graduating Winter 2017.</p>
-
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-
 <p>Here are some links to check out...</p>
-
 <!-- longlongcomment --> 
-
 This is some basic plain text written out. I am not sure how long it will take to go to a new line but hopefully this is about it.
-
 <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-
-<p>>This is text in a paragraph tag.</p>
-
+<p>This is text in a paragraph tag.</p>
 <!-- slightdelayhere-->
 Special thanks to <a href="http://www.jeffweisbein.com/">Jeff Weisbein</a> for the inspiration and tutorial.
