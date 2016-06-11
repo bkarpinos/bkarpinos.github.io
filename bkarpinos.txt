@@ -1,13 +1,19 @@
 <span id="a">brett@karpinos</span>:<span id="b">~</span><span id="c">$</span> cat bkarpinos.txt<br/><br/>
 Hello world!.
 My name is Brett Karpinos...
-<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- This is a comment which should cause a lag -->
 <p>I am currently studying Computer Science Engineering at the University of Michigan College of Engineering. I plan on graduating Winter 2017.</p>
-<!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<!-- This is a comment which should cause a lag -->
 <p>Here are some links to check out...</p>
-<!-- longlongcomment --> 
-This is some basic plain text written out. I am not sure how long it will take to go to a new line but hopefully this is about it.
-<!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-<p>This is text in a paragraph tag.</p>
-<!-- slightdelayhere-->
+<a href="https://www.linkedin.com/in/bkarpinos">LinkedIn</a>
+<a href="https://github.com/bkarpinos">Github</a>
+<a href="https://gitlab.com/u/bkarpinos">Gitlab</a>
+<!-- This is a comment which should cause a lag -->
+<p>Contact me at...</p>
+<a href="mailto:bkarpinos@gmail.com">Personal Email</a>
+<a href="mailto:bhkarp@umich.edu">School Email</a>
+
+
+<!-- This is a comment which should cause a lag -->
+<!-- This is a comment which should cause a lag -->
 Special thanks to <a href="http://www.jeffweisbein.com/">Jeff Weisbein</a> for the inspiration and tutorial.
