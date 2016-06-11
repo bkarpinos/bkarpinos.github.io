@@ -4,12 +4,12 @@ My name is Brett Karpinos...
 <!-- This is a comment which should cause a lag -->
 <p>I am currently studying Computer Science Engineering at the University of Michigan College of Engineering. I plan on graduating Winter 2017.</p>
 <!-- This is a comment which should cause a lag -->
-<p>Here are some links to check out...</p>
+Here are some links to check out...
 <a href="https://www.linkedin.com/in/bkarpinos">LinkedIn</a>
 <a href="https://github.com/bkarpinos">Github</a>
 <a href="https://gitlab.com/u/bkarpinos">Gitlab</a>
 <!-- This is a comment which should cause a lag -->
-<p>Contact me at...</p>
+Contact me at...
 <a href="mailto:bkarpinos@gmail.com">Personal Email</a>
 <a href="mailto:bhkarp@umich.edu">School Email</a>
 
